@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "My First Blog",
+    "author": "Sneha",
+    "content": "This is my first blog post.",
+    "publishDate": "2026-02-25",
+    "published": true
+  }
+]
